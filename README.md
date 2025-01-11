@@ -1,4 +1,3 @@
-![logo](https://github.com/RathodAnsh/RathodAnsh/blob/main/Data%20Analyst%20Link%20%2B%20Git%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ansh Rathod</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
