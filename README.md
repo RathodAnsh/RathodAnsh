@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ansh Rathod</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-![Demo](https://raw.githubusercontent.com/RathodAnsh/RathodAnsh/refs/heads/main/Animation%20-%201736583543901.gif)
+<p align="right">
+  <img src="https://raw.githubusercontent.com/RathodAnsh/RathodAnsh/refs/heads/main/Animation%20-%201736583543901.gif" alt="Demo" style="margin-top: 20px;">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodansh&label=Profile%20views&color=0e75b6&style=flat" alt="rathodansh" /> </p>
 
 - 📫 How to reach me **anshrathod735@gmail.com**
