@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Rathod</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="right">
+<p align="">
   <img src="https://raw.githubusercontent.com/RathodAnsh/RathodAnsh/refs/heads/main/Animation%20-%201736583543901.gif" alt="Demo" style="margin-bottom: 40px;">
 </p>
 
