@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Rathod</h1>
 <h3 align="center">Embarking on a journey as a Data Analyst</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodansh&label=Profile%20views&color=0e75b6&style=flat" alt="rathodansh" /> </p>
 
 - 🌱 I’m currently learning **Power BI, SQL, Excel**
