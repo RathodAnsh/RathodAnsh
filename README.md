@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Rathod</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/data-analysis-animation-visualize-insights-effectively-JTyygZuvbP">
+![Demo]()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodansh&label=Profile%20views&color=0e75b6&style=flat" alt="rathodansh" /> </p>
 
 - 📫 How to reach me **anshrathod735@gmail.com**
