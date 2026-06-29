@@ -16,11 +16,15 @@
 - 🎯 Fresher **Data & MIS Analyst** - turning raw data into decisions that move the needle
 - 📊 Built **hands on projects** across Sales, Finance, Supply Chain & E-commerce
 - 💼 Actively looking for opportunities in **Mumbai · Bengaluru · Pune**
-- 📫 **Connect with Me** at <p align="left">
+- **Connect with Me**
+<p align="left">
   <a href="https://linkedin.com/in/anshrathod01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshrathod01" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p> OR anshrathod735@gmail.com
+  <a href="mailto:anshrathod735@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
 - ⚡ Every data has a story - I find the right chart to tell it
 
 ---
@@ -50,17 +54,7 @@
 
 ### 📂 Projects
 
-> 💡 Check out my **pinned repositories below** — each one is a full end-to-end analytics project across different domains and tools.
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/anshrathod01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshrathod01" height="30" width="40" />
-  </a>
-</p>
+> 💡 Check out my **pinned repositories below** - each one is a full end-to-end analytics project across different domains and tools.
 
 ---
 
