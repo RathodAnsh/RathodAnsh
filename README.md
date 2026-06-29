@@ -16,7 +16,7 @@
 - 🎯 Fresher **Data & MIS Analyst** - turning raw data into decisions that move the needle
 - 📊 Built **hands on projects** across Sales, Finance, Supply Chain & E-commerce
 - 💼 Actively looking for opportunities in **Mumbai · Bengaluru · Pune**
-- 📫 **anshrathod735@gmail.com**
+- 📫 **Connect with Me at anshrathod735@gmail.com**
 - ⚡ Every data has a story - I find the right chart to tell it
 
 ---
