@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ansh Rathod</h1>
 <h3 align="center">Fresher Data Analyst & MIS Analyst | SQL · Power BI · Excel · Python</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rathodansh&label=Profile%20views&color=0e75b6&style=flat" alt="rathodansh" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=600&lines=Data+Analyst+%7C+MIS+Analyst+%7C+Fresher;Power+BI+%7C+SQL+%7C+Advanced+Excel+%7C+Python;Sales+%7C+Finance+%7C+Supply+Chain+%7C+E-commerce;Turning+Raw+Data+into+Actionable+Business+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=600&lines=Sales+%7C+Finance+%7C+Supply+Chain+%7C+E-commerce;Dashboards+that+drive+decisions+%F0%9F%93%8A;From+Raw+Data+to+Business+Insights;Open+to+Data+Analyst+%26+MIS+Analyst+Roles;Based+in+Mumbai+%7C+Open+to+Bengaluru+%26+Pune" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -38,6 +42,7 @@
 **🗄️ Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
