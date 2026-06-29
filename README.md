@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=600&lines=Sales+%7C+Finance+%7C+Supply+Chain+%7C+E-commerce;Dashboards+that+drive+decisions+%F0%9F%93%8A;From+Raw+Data+to+Business+Insights;Open+to+Data+Analyst+%26+MIS+Analyst+Roles;Based+in+Mumbai+%7C+Open+to+Bengaluru+%26+Pune" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&width=600&lines=Dashboards+that+drive+decisions+%F0%9F%93%8A;From+Raw+Data+to+Business+Insights;Open+to+Data+Analyst+%26+MIS+Analyst+Roles;Based+in+Mumbai+%7C+Open+to+Bengaluru+%26+Pune" alt="Typing SVG" />
 </p>
 
 ---
