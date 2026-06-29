@@ -49,17 +49,3 @@
 > 💡 Check out my **pinned repositories below** - each one is a full end-to-end analytics project across different domains and tools.
 
 ---
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rathodansh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rathodansh" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathodansh&show_icons=true&locale=en&theme=tokyonight" alt="rathodansh" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=rathodansh&theme=tokyonight" alt="rathodansh" />
-</p>
